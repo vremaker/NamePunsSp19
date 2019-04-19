@@ -6,32 +6,38 @@
  * Revamped css for name puns!
  */
 @import url('https://fonts.googleapis.com/css?family=Roboto|Anton');
-
+@import url('https://fonts.googleapis.com/css?family=Arvo|Gravitas+One');
 body {
   background-color: white;
-  font-family: 'Roboto', san-sans-serif;
+  font-family: 'Arvo', san-sans-serif;
+  /*Source: Pusheen (its the facebook sticker!) Inspired by my dad! */
+  background-image: url("type.gif");
+  background-size: 50px;
+  height: 10px;
+  padding: 0;
+  margin:0;
 }
 
-header {
-  text-align: center;
-  margin-bottom: 2%;
-}
-
-main {
+main, header, footer {
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
-  height: 30em;
-  background-color: pink;
-  width: 70%;
+  width: 80%;
+  background-color: #f4f8fc;
   margin: auto;
-  margin-top: 1%;
-  margin-bottom: 1%;
+}
+
+main {
+  height: 30em;
+  margin-top: 0;
+}
+header {
+  text-align: center;
+  margin-top: 3%;
 }
 
 header h1 {
-  font-family: 'Anton', cursive;
-  margin: 0;
+  font-family: "Gravitas One", cursive;
 }
 
 header h2 {
@@ -44,7 +50,7 @@ header h2 {
     display: flex;
     flex-flow: column wrap;
     align-content: center;
-  
+    margin-bottom: 10%;
 }
 
 footer {
@@ -59,33 +65,25 @@ footer {
   align-items: center;
 }
 
-#search-btns > button {
-  width: 40%;
-}
-
 button {
-  font-family: 'Roboto', san-sans-serif;
-  padding :0px;
+  font-family: 'Arvo', san-sans-serif;
+  font-size: .5em;
+  padding : 10px;
   margin : 5px;
-  display: flex;
-  justify-content: center;
-  background-color: rgba(206, 47, 101, 0.68);
-}
-
-
-#home {
-  margin-top: 10em;
+  width: 40%;
+  height: 100%;
+  background-color: #cffdfb;
+  word-wrap:break-word;
 }
 
 button:hover{
-  background-color: rgb(206, 47, 101);
+  background-color: #c0c9de;
 }
 
 #search-btns{
   display: flex;
   flex-flow : row nowrap;
   width: 70%;
-  height: 40px;
   justify-content: center;
 }
 
