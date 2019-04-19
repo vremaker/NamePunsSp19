@@ -73,13 +73,8 @@ Vu: What does Vu put after a CSS selector? : Vu-le set
 Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
 Aadi: How does Aadi combine two numbers? : Aadition
 Woong: :
-<<<<<<< HEAD
 Austin: :
 Keith:  :
-=======
-Austin:  :
-Keith: :
->>>>>>> 68f0cdf1714459b5b1a796d6eaea861857dc7377
 Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
 Manchen: :
 Prachatorn: What do you call a Prachatorn that's also a grain? : Prachacorn
