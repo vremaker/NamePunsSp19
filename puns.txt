@@ -91,8 +91,8 @@ Jared: :
 Arbaz: How does Arbaz get around? : He drives a cArbaz
 Sooji: :
 Ratik: What sound does Ratik's clock make? : Ratik-tock
-Yae:  :
-Divya: :
+Yae: :
+Divya: What is Divya's favorite kind of boat? : A Divyacht
 Michelle:  :
 Hongda: :
 Kristin: What does Kristen call her exit? : Krist-out
@@ -112,8 +112,8 @@ Kaizhi: :
 Claire: What does Claire put before her loops? : a variable deClaireation
 Pim: It's amazing that one man does so much stuff in CSE : You might say it's Pimpossible
 Jessie: :
-Jocelyn: :
-Kevin: :
+Jocelyn: What is Jocelyn told when she goes to the dentist? : Remember to Flosselyn 
+Kevin: What do you call a Kevin that isn't held down by anyone?  : Kevindependent
 Louis: What do you call a Louis that holds things together? : glueis
 Casey: What does Casey call his favorite food? : a deli-Casey
 Aaron: What does Aaron call his to-do list? : his Aaronds
