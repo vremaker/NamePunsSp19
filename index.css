@@ -1,0 +1,123 @@
+/**
+ * Name: Valerie Remaker
+ * Date: 11/14/18
+ * Section: CSE154 AD
+ *
+ * Revamped css for name puns!
+ */
+@import url('https://fonts.googleapis.com/css?family=Roboto|Anton');
+
+body {
+  background-color: white;
+  font-family: 'Roboto', san-sans-serif;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+main {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  height: 30em;
+  background-color: pink;
+  width: 70%;
+  margin: auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+header h1 {
+  font-family: 'Anton', cursive;
+  margin: 0;
+}
+
+header h2 {
+  font-size : 12pt;
+  padding : 0;
+  margin : 0;
+}
+
+#puns {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+  
+}
+
+footer {
+  font-size: 8pt;
+  text-align: center;
+  font-weight: bold;
+}
+
+#btns {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+}
+
+#search-btns > button {
+  width: 40%;
+}
+
+button {
+  font-family: 'Roboto', san-sans-serif;
+  padding :0px;
+  margin : 5px;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(206, 47, 101, 0.68);
+}
+
+
+#home {
+  margin-top: 10em;
+}
+
+button:hover{
+  background-color: rgb(206, 47, 101);
+}
+
+#search-btns{
+  display: flex;
+  flex-flow : row nowrap;
+  width: 70%;
+  height: 40px;
+  justify-content: center;
+}
+
+#res {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  align-self: center;
+}
+
+#res h3 {
+  font-size: 15pt;
+  font-weight: bold;
+}
+
+#res h2, h3 {
+  margin: 3%;
+}
+
+input {
+  width: 55%;
+  height: 25px;
+  margin: 10px;
+}
+
+.hidden {
+  display: none;
+}
