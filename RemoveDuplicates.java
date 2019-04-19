@@ -8,7 +8,7 @@ public class RemoveDuplicates {
 		
 		while (input.hasNextLine()) {
 			String line = input.nextLine();
-			String name = line.split(":( )*:", 2)[0];
+			String name = line.split(":", 2)[0];
 			if (seenNames.contains(name)) {
 				System.out.println("Duplicate: " + name);
 			} else {
