@@ -28,26 +28,26 @@ Henry: What is Henry's favorite type of bread? : Henrye bread
 James: Where did James go to compete with the world's best athletes? : the Olympic James
 Jed: What do you call a Jed that can fly? : overJed
 Kelley: What do you call a Kelley in a position of a power? : a Kelleader
-Nuo:  :
-Parren: What does Parren:
-Simi: How does :
-Vincent: :
-Xuweiyi: :
-Andrew: :
-Kamden:  :
+Nuo: What do a Nuo that can discern subtle differences? : Nuoance
+Parren: What does a Parren sit on? : A chairren
+Simi: What does Simi do at the beach? : He goes for a swimi
+Vincent: Why is Vincent's wallet so empty? : He Vinspent all his money
+Xuweiyi: What does Xuweiyi do at the gym? : Lift Zu-weight-yis
+Andrew: What is Andrew's favorite html element? : a <span>drew
+Kamden: What do you call a Kamden that grows? : Expamden
 Anthony: What is Anthony's favorite lunch meat? : Anthbaloney
-Steven: :
+Steven: What is Steven's favorite Journey song?  : Don't stop beSteven
 Travis: What do you call a Travis that is really fancy? : exTravisgant
 Alex: What do you call an Alex in a man-made water channel? : a canalex
 Leo: How does Leo show his patriotism? : He recites the pledge of alleogiance
-Calvin:  :
-Wenzao:  :
+Calvin: What is Calvin's favorite car?  : A cal(mini)van
+Wenzao: What do you call a Wenzao that lays eggs? : A henzao
 Jacob: What do you call a Jacob that is a drop of golden sun?: Raycob
 Hao: How does Hao like to greet new people? : Hao-dy
-Mingzhong: :
+Mingzhong: What does Mingzhong do in choir? : Singzhong
 Kresta: What do you call a Kresta that you see in the sky? : Krestar
 Anish: What would you call Anish if he was from Madrid? : Sp-Anish
-Madison: :
+Madison: What do you call a short lived Madison? : Fadison
 Aiden: What does Aiden write with? : Ai-pen
 Tianyu: What do you call a Tianyu that's made up? : ficTian(yu)
 Christina: What do you call a Christina that is also a fish? : Christuna
@@ -55,11 +55,11 @@ Ryan: What do you a victorious Ryan? : Tryanumphant
 Xueqi: How does Xueqi get into a room? : Using a Xuekey
 Kelvin: What's Kelvin's favorite aquatic plant? : Kelpvin
 Yu: What do you call a Yu who's on a computer? : the Yu-ser
-Zachary: :
-Manhong: :
+Zachary:How does Zachary get ready for a trip? : He has to Packary
+Manhong: When does Manhong know they need to eat? : They get Manhongery
 Corina: What sound does Corina's phone make? : Co-ring-a
 Hudson: What do you call a Hudson that is a potato? : Spudson
-Tad: :
+Tad: What do you call a happy Tad? : ExsTADic
 Mark:  :
 Colton: :
 Justin: :
@@ -71,7 +71,7 @@ Miklos: :
 Melissa: :
 Mowgli: :
 Daniel: :
-Cindy: :
+Cindy: What do you call a Cindy that you use to secure fabric when sewing? : Sewing Pindy
 Henry: :
 Vu: What does Vu put after a CSS selector? : Vu-le set
 Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
@@ -79,7 +79,7 @@ Aadi: How does Aadi combine two numbers? : Aadition
 Woong: :
 Austin: :
 Keith: :
-Jaimie: :
+Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
 Manchen: :
 Prachatorn: :
 Hemanth: :
@@ -204,26 +204,26 @@ Harly: What do you call a Harly that is not close to you? : Farly
 Chuhan: What does Chuhan wear on their feet? : Shoehans
 Justin: How does Justin find dates? : He uses Justinder
 Mingyang: :
-Sandy: :
-Ruolu: :
-Nicholas: :
-Aego: :
-Feiyang:  :
+Sandy: What is Sandy's favorite country? : Japandy
+Ruolu: What is Ruolu's favorite streaming service? : Ruohulu
+Nicholas: What does Nicholas use to keep track of the tasks he still has to do? : He uses a Nicholist
+Aego: What is Aego's favorite anmial? : an Aegoat
+Feiyang: What does Feiyang wear around their neck to a formal event? : a Tieyang
 Annabelle: What does Annabelle use to style her hair? : Annab-gel
-Glenn: What do you :
+Glenn: What do you call a Glenn that is not cheap? : Exp-glenn-sive
 Hanzheng: What do you call a Hanzheng that comes back to life in a video game? : Spawnzheng
 Jeremy: How does Jeremy Express his frustration?  : He screams JeremREEEEEEE
-Zetao: What do you call  :
+Zetao: What do you call a Zetao you use to dry off? : Zetaowel
 Alice: What do you call an Alice that you drink from? : chAlice
-Yunze:  :
-Juncheng: :
-Xuanlong: What do you call a Xuanlong  :
+Yunze: What do you call a Yunze that is entertaining?  : Funze
+Juncheng: What do you call a Juncheng that likes word play? : Puncheng
+Xuanlong: What does a Xuanlong use to pick things up?: Xuantongs
 Robert: What do you call an injuerd Robert? : Robhurt
 Zhiwei: What is Zhiwei's favorite protein? : Zhiwhey
 Jason: What do you call a dizzy Jason? : Jaspun
 Kay: What is Kay's favorite animal?  : A Kayngaroo
 Raphael: What happens when Raphael gets frustrated? : He Raphaeyells
-Zehua: :
+Zehua: How does Zehua say hello? : Zehua-owdy
 Ally: What do you call the world around Ally? : Re-Ally-ty
 Yifei: What does Yifei say when she's happy? : Hip hip Yifei
 Stephen: What do you call a Stephen that is not allowed? : Stephban
