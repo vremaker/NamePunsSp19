@@ -87,21 +87,21 @@ Jared: :
 Arbaz: How does Arbaz get around? : He drives a cArbaz
 Sooji: What is Sooji's favorite thing to text? : EmSoogis
 Ratik: What sound does Ratik's clock make? : Ratik-tock
-Yae: :
+Yae:  :
 Divya: What is Divya's favorite kind of boat? : A Divyacht
 Michelle:  :
 Hongda: :
 Kristin: What does Kristen call her exit? : Krist-out
 Liangchen: :
 Sandra: :
-Junxi: :
+Junxi: What do you call a Junxi standing next to something really different? : Junxtaposition
 Ludvig: :
 Bryan: What do you call a Bryan that loses an electron? : Br-ion
 Cailey: What do you call a Cailey in a tree? : Caileaf
 Chao: How does Chao eat his seafood? : clam Chaoder
 Nan: How does Nan do magic tricks? : they wave their magic Nand
 Huilin: :
-Jess: :
+Jess: What do you call a Jess who is funny? : Jesst
 Miki: How does Miki get a value from a map? : He gives it a Mi-key
 Wenxuan: :
 Kaizhi: :
@@ -118,7 +118,7 @@ Zach: How does Zach carry all his books? : a backZach
 Angel: What do you call an Angel who can reach far away? : rAngel
 Lucero: What is Lucero's favorite flex-property? : flex-direction : lucerROW;
 Julianne: What do you call a Julianne that is always prepared? : a Juliplanner
-Taylor: :
+Taylor: What do you call a Taylor that gives out money? : Paylor
 Trey: What do you call a radical Trey? : Extreyme
 Jacky: What does Jacky buy at the golf supply store? : Jacktee's
 Manny: What is Manny's favorite Hall and Oates Song? : Mannyac (I highly recommend the song)
@@ -132,7 +132,7 @@ Tom: How does Tom name his websites? : www.aboutme.tom
 Oliver: How does Oliver wrap non-semantic content? : Ol<div>er
 Clayton: What do you call a Clayton having fun? : Playton
 Saurav: :
-Sarah: :
+Sarah:  :
 Eva: :
 Oscar: What does Oscar get when he plays golf? : Ospar
 Nhat: What did Nhat say when asked if he was busy? : "No, I am Nhat"
