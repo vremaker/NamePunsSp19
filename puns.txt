@@ -28,7 +28,7 @@ Henry: What is Henry's favorite type of bread? : Henrye bread
 James: Where did James go to compete with the world's best athletes? : the Olympic James
 Jed: What do you call a Jed that can fly? : overJed
 Kelley: What do you call a Kelley in a position of a power? : a Kelleader
-Nuo: What do a Nuo that can discern subtle differences? : Nuoance
+Nuo: What do you call a Nuo that can discern subtle differences? : Nuoance
 Parren: What does a Parren sit on? : A chairren
 Simi: What does Simi do at the beach? : He goes for a swimi
 Vincent: Why is Vincent's wallet so empty? : He Vinspent all his money
@@ -60,15 +60,9 @@ Manhong: When does Manhong know they need to eat? : They get Manhongery
 Corina: What sound does Corina's phone make? : Co-ring-a
 Hudson: What do you call a Hudson that is a potato? : Spudson
 Tad: What do you call a happy Tad? : ExsTADic
-<<<<<<< HEAD
 Mark: What do you :
 Colton: What do you call a Colton who spent time in the sun? : Coltan
 Sven: What do you call a Sven that costs a lot? : ExpSVENsive
-=======
-Mark:  :
-Colton: :
-Sven: :
->>>>>>> 08c887186c689004ddcfd722f9e2b10f654fb501
 Jonathan:  :
 Jerry: :
 Miklos: :
@@ -91,7 +85,7 @@ Ethan:  :
 Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
 Jared: :
 Arbaz: How does Arbaz get around? : He drives a cArbaz
-Sooji: What is Sooji's favorite thing to text? : EmSoogis 
+Sooji: What is Sooji's favorite thing to text? : EmSoogis
 Ratik: What sound does Ratik's clock make? : Ratik-tock
 Yae: :
 Divya: What is Divya's favorite kind of boat? : A Divyacht
@@ -113,7 +107,7 @@ Wenxuan: :
 Kaizhi: :
 Claire: What does Claire put before her loops? : a variable deClaireation
 Pim: It's amazing that one man does so much stuff in CSE : You might say it's Pimpossible
-Jessie: :
+Jessie: What do you call a Jessie on a boat? : Jessea
 Jocelyn: What is Jocelyn told when she goes to the dentist? : Remember to Flosselyn
 Kevin: What do you call a Kevin that isn't held down by anyone?  : Kevindependent
 Louis: What do you call a Louis that holds things together? : glueis
@@ -136,11 +130,11 @@ Grant: What do you call a Grant that is made up of granular rock? : Grant-ite
 Bao: Did you hear Bao got a job hunting down criminals? : She's a Bao-nty hunter
 Tom: How does Tom name his websites? : www.aboutme.tom
 Oliver: How does Oliver wrap non-semantic content? : Ol<div>er
-Clayton: :
+Clayton: What do you call a Clayton having fun? : Playton
 Saurav: :
 Sarah: :
 Eva: :
-Oscar: :
+Oscar: What does Oscar get when he plays golf? : Ospar
 Nhat: What did Nhat say when asked if he was busy? : "No, I am Nhat"
 Khang: What is Khang's favorite fruit? : Khangtelope
 Wen: What do you call an outstanding Wen?: Wenderful
@@ -154,7 +148,7 @@ Yaniv: How does Yaniv share his resources? : he Yandivides them
 Catherine: What do you call a twirling Catherine? : Catherspin
 Ann: What happens when Ann is annoyed? : They get Anngry
 Daniel: What do you call a Daniel who is enthusiastic about something? : Faniel
-Chuan: :
+Chuan: What do you call a Chuan with six sides? : a hexaChuan
 Batina: :
 Samantha: What does Samantha call her ideas? : Samanthoughts
 David: :
@@ -168,7 +162,7 @@ Joosung: :
 Eric: What do you call an Eric whose father is a ruler? : Heir-ic
 Anastasia: :
 Evan: What do you call a nice Evan? : hEvanly
-Michael: :
+Michael: What does Michael use to speak loudly? : a Mike-crophone
 Sai: How does Sai finish all his homework so early? : He does all his assignments Sai-multaneously
 Tahmin: How long does it take Tahmin to debug his code? : jusTah-minute
 Erica: :
