@@ -60,15 +60,9 @@ Manhong: When does Manhong know they need to eat? : They get Manhongery
 Corina: What sound does Corina's phone make? : Co-ring-a
 Hudson: What do you call a Hudson that is a potato? : Spudson
 Tad: What do you call a happy Tad? : ExsTADic
-<<<<<<< HEAD
 Mark: What do you :
 Colton: What do you call a Colton who spent time in the sun? : Coltan
 Sven: What do you call a Sven that costs a lot? : ExpSVENsive
-=======
-Mark:  :
-Colton: :
-Sven: :
->>>>>>> 08c887186c689004ddcfd722f9e2b10f654fb501
 Jonathan:  :
 Jerry: :
 Miklos: :
@@ -80,7 +74,7 @@ Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
 Aadi: How does Aadi combine two numbers? : Aadition
 Woong: :
 Austin: :
-Keith: :
+Keith:  :
 Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
 Manchen: :
 Prachatorn: What do you call a Prachatorn that's also a grain? : Prachacorn
@@ -91,7 +85,7 @@ Ethan:  :
 Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
 Jared: :
 Arbaz: How does Arbaz get around? : He drives a cArbaz
-Sooji: What is Sooji's favorite thing to text? : EmSoogis 
+Sooji: What is Sooji's favorite thing to text? : EmSoogis
 Ratik: What sound does Ratik's clock make? : Ratik-tock
 Yae: :
 Divya: What is Divya's favorite kind of boat? : A Divyacht
