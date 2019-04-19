@@ -60,10 +60,9 @@ Manhong: When does Manhong know they need to eat? : They get Manhongery
 Corina: What sound does Corina's phone make? : Co-ring-a
 Hudson: What do you call a Hudson that is a potato? : Spudson
 Tad: What do you call a happy Tad? : ExsTADic
-Mark:  :
-Colton: :
-Justin: :
-Sven: :
+Mark: What do you :
+Colton: What do you call a Colton who spent time in the sun? : Coltan
+Sven: What do you call a Sven that costs a lot? : ExpSVENsive
 Jonathan:  :
 Jerry: :
 Miklos: :
@@ -88,7 +87,7 @@ Ethan:  :
 Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
 Jared: :
 Arbaz: How does Arbaz get around? : He drives a cArbaz
-Sooji: :
+Sooji: What is Sooji's favorite thing to text? : EmSoogis 
 Ratik: What sound does Ratik's clock make? : Ratik-tock
 Yae: :
 Divya: What is Divya's favorite kind of boat? : A Divyacht
@@ -160,7 +159,6 @@ Karandeep: :
 Sanchit: :
 Yash: What sound does Yash make when he jumps into water? : Spl-Yash
 Patrin:  :
-Ryan: What do you call Ryan when he loses an electron? : a R-ion
 Nimai: What do you call a Nimai who's really strong? : Nimaighty
 Joosung: :
 Eric: What do you call an Eric whose father is a ruler? : Heir-ic
