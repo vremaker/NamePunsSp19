@@ -43,12 +43,12 @@ Leo: How does Leo show his patriotism? : He recites the pledge of alleogiance
 Calvin: :
 Wenzao: :
 Jacob: What do you call a Jacob that is a drop of golden sun?: Raycob
-Hao: :
+Hao: How does Hao like to greet new people? : Hao-dy
 Mingzhong: :
 Kresta: :
 Anish: :
 Madison: :
-Aiden: :
+Aiden: What does Aiden write with? : an i-pen
 Tianyu: :
 Christina: :
 James: :
@@ -59,7 +59,7 @@ Yu: :
 Zachary: :
 Manhong: :
 Corina: :
-Hudson: :
+Hudson: What do you call a Hudson that is a potato? : Spudson
 Tad: :
 Mark: :
 Colton: :
@@ -109,11 +109,11 @@ Chao:  :
 Nan: :
 Huilin: :
 Jess: :
-Miki: :
+Miki: How does Miki get a value from a map? : He gives it a Mi-key
 Wenxuan: :
 Kaizhi: :
 Claire: :
-Pim: :
+Pim: It's amazing that one man does so much stuff in CSE : You might say it's Pimpossible
 Jessie: :
 Jocelyn: :
 Kevin: :
@@ -134,8 +134,8 @@ Keegan: What do you call a Keegan on a farm? : Keeglamb
 Koyo: What is Koyo's favorite mexican fast food joint? : El Koyo Loco
 Tierney: :
 Grant: :
-Bao: :
-Tom: :
+Bao: Did you hear Bao got a job hunting down criminals? : She's a Bao-nty hunter
+Tom: How do you know Tom is impressed? : His eye glaze over with asTOMnishment
 Oliver: :
 Clayton: :
 Saurav: :
@@ -200,12 +200,12 @@ Ben: :
 Philip: :
 Grant: :
 Avery: :
-Tal: :
+Tal: What is Tal's favorite genre of music? : Heavy Me-Tal
 Robel: :
 Jeffrey: :
 Derek:  :
 Joseph: :
-Li-Kai: :
+Li-Kai: What did Li-Kai say before he left? : Li-Bye
 Harly: What do you call a Harly that is not close to you? : Farly
 Chuhan: What does Chuhan wear on their feet? : Shoehans
 Justin: How does Justin find dates? : He uses Justinder
