@@ -34,23 +34,23 @@ Simi: How does :
 Vincent: :
 Xuweiyi: :
 Andrew: :
-Kamden: :
+Kamden:  :
 Anthony: What is Anthony's favorite lunch meat? : Anthbaloney
 Steven: :
 Travis: What do you call a Travis that is really fancy? : exTravisgant
-Alex: :
+Alex: What do you call an Alex in a man-made water channel? : a canalex
 Leo: How does Leo show his patriotism? : He recites the pledge of alleogiance
-Calvin: :
-Wenzao: :
+Calvin:  :
+Wenzao:  :
 Jacob: What do you call a Jacob that is a drop of golden sun?: Raycob
 Hao: How does Hao like to greet new people? : Hao-dy
 Mingzhong: :
-Kresta: :
+Kresta: What do you call a Kresta that you see in the sky? : Krestar
 Anish: What would you call Anish if he was from Madrid? : Sp-Anish
 Madison: :
 Aiden: What does Aiden write with? : Ai-pen
 Tianyu: What do you call a Tianyu that's made up? : ficTian(yu)
-Christina:  :
+Christina: What do you call a Christina that is also a fish? : Christuna
 Ryan: What do you a victorious Ryan? : Tryanumphant
 Xueqi: How does Xueqi get into a room? : Using a Xuekey
 Kelvin: What's Kelvin's favorite aquatic plant? : Kelpvin
@@ -60,12 +60,12 @@ Manhong: :
 Corina: What sound does Corina's phone make? : Co-ring-a
 Hudson: :
 Tad: :
-Mark: :
+Mark:  :
 Colton: :
 Justin: :
 Sven: :
 Daniel: :
-Jonathan: :
+Jonathan:  :
 Jordan: :
 Jerry: :
 Miklos: :
@@ -77,7 +77,6 @@ Henry: :
 Vu: What does Vu put after a CSS selector? : Vu-le set
 Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
 Aadi: How does Aadi combine two numbers? : Aadition
-Andrew: :
 Woong: :
 Austin: :
 Keith: :
@@ -87,25 +86,25 @@ Prachatorn: :
 Hemanth: :
 Jay: What does Jay wear to bed? : PaJaymas
 Eish: :
-Ethan: :
+Ethan:  :
 Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
 Jared: :
-Arbaz: :
+Arbaz: How does Arbaz get around? : He drives a cArbaz
 Sooji: :
-Ratik: :
-Yae: :
+Ratik: What sound does Ratik's clock make? : Ratik-tock
+Yae:  :
 Divya: :
 Michelle: :
 Hongda: :
-Kristin: :
+Kristin: What does Kristen call her exit? : Krist-out
 Liangchen: :
 Sandra: :
 Junxi: :
 Ludvig: :
-Bryan: :
-Cailey: :
-Chao:  :
-Nan: :
+Bryan: What do you call a Bryan that loses an electron? : Br-ion
+Cailey: What do you call a Cailey in a tree? : Caileaf
+Chao: How does Chao eat his seafood? : clam Chaoder
+Nan: How does Nan do magic tricks? : they wave their magic Nand
 Huilin: :
 Jess: :
 Miki: How does Miki get a value from a map? : He gives it a Mi-key
@@ -116,9 +115,9 @@ Pim: It's amazing that one man does so much stuff in CSE : You might say it's Pi
 Jessie: :
 Jocelyn: :
 Kevin: :
-Louis: :
+Louis: What do you call a Louis that holds things together? : glueis
 Casey: What does Casey call his favorite food? : a deli-Casey
-Aaron:  :
+Aaron: What does Aaron call his to-do list? : his Aaronds
 Kendall: What does Kendall do on a shopping trip? : They Spendall their money
 Zach: How does Zach carry all his books? : a backZach
 Angel: What do you call an Angel who can reach far away? : rAngel
@@ -150,9 +149,7 @@ Nikhil: :
 Antonio: What do you call an Antonio that you sit on? : Anthroneio
 Peter: What's Peter's favorite planet? : JuPeter
 Valerie: What do you call a Valerie that is tall? : Valertree
-Erin: :
 Kyle: What do you call a sad Kyle? : Cryle
-Andrew:  :
 Yaniv: How does Yaniv share his resources? : he Yandivides them
 Catherine: What do you call a twirling Catherine? : Catherspin
 Ann: What happens when Ann is annoyed? : They get Anngry
@@ -165,9 +162,9 @@ Zoheb: :
 Karandeep: :
 Sanchit: :
 Yash: What sound does Yash make when he jumps into water? : Spl-Yash
-Patrin: :
+Patrin:  :
 Ryan: What do you call Ryan when he loses an electron? : a R-ion
-Nimai: :
+Nimai: What do you call a Nimai who's really strong? : Nimaighty
 Joosung: :
 Eric: What do you call an Eric whose father is a ruler? : Heir-ic
 Anastasia: :
@@ -189,7 +186,7 @@ Preethi: What do you call a Preethi who doesn't have anything on their schedule?
 Aryan: :
 Matthew: :
 Jack: :
-John: :
+John:  :
 Lucy: What does Lucy do when she enters lecture?  : Take a Lu-seat
 Owen: What is Owen's favorite weather? : Sn-Owen
 Tie Xiao: :
