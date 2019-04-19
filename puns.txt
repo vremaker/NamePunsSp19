@@ -60,17 +60,21 @@ Manhong: When does Manhong know they need to eat? : They get Manhongery
 Corina: What sound does Corina's phone make? : Co-ring-a
 Hudson: What do you call a Hudson that is a potato? : Spudson
 Tad: What do you call a happy Tad? : ExsTADic
+<<<<<<< HEAD
 Mark: What do you :
 Colton: What do you call a Colton who spent time in the sun? : Coltan
 Sven: What do you call a Sven that costs a lot? : ExpSVENsive
+=======
+Mark:  :
+Colton: :
+Sven: :
+>>>>>>> 08c887186c689004ddcfd722f9e2b10f654fb501
 Jonathan:  :
 Jerry: :
 Miklos: :
 Melissa: :
 Mowgli: :
-Daniel: :
 Cindy: What do you call a Cindy that you use to secure fabric when sewing? : Sewing Pindy
-Henry: :
 Vu: What does Vu put after a CSS selector? : Vu-le set
 Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
 Aadi: How does Aadi combine two numbers? : Aadition
@@ -79,7 +83,7 @@ Austin: :
 Keith: :
 Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
 Manchen: :
-Prachatorn: :
+Prachatorn: What do you call a Prachatorn that's also a grain? : Prachacorn
 Hemanth: :
 Jay: What does Jay wear to bed? : PaJaymas
 Eish: :
