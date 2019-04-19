@@ -132,7 +132,7 @@ Tom: How does Tom name his websites? : www.aboutme.tom
 Oliver: How does Oliver wrap non-semantic content? : Ol<div>er
 Clayton: What do you call a Clayton having fun? : Playton
 Saurav: What's Saurav's favorite condiment? : Sauravcha
-Sarah:  :
+Sarah: What do you call a Sarah that lives in the woods? : Bear-ah
 Eva:  :
 Oscar: What does Oscar get when he plays golf? : Ospar
 Nhat: What did Nhat say when asked if he was busy? : "No, I am Nhat"
