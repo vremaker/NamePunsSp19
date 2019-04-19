@@ -48,7 +48,7 @@ Mingzhong: :
 Kresta: :
 Anish: :
 Madison: :
-Aiden: :
+Aiden: What does Aiden write with? : Ai-pen
 Tianyu: :
 Christina: :
 James: :
@@ -109,7 +109,7 @@ Chao:  :
 Nan: :
 Huilin: :
 Jess: :
-Miki: :
+Miki: How does Miki get a value from a map? : He gives it a Mi-key
 Wenxuan: :
 Kaizhi: :
 Claire: :
@@ -135,7 +135,7 @@ Koyo: What is Koyo's favorite mexican fast food joint? : El Koyo Loco
 Tierney: :
 Grant: :
 Bao: :
-Tom: :
+Tom: How does Tom name his websites? : www.aboutme.tom
 Oliver: :
 Clayton: :
 Saurav: :
@@ -143,7 +143,7 @@ Sarah: :
 Eva: :
 Kayla: :
 Oscar: :
-Nhat: :
+Nhat: What did Nhat say when asked if he was busy? : "No, I am Nhat"
 Khang: :
 Wen: What do you call an outstanding Wen?: Wenderful
 Sweekruthi: :
@@ -158,7 +158,7 @@ Yaniv: What HTML tag does Yaniv dislike the most? : Yan<Div>
 Catherine: What do you call a twirling Catherine? : Catherspin
 Ann: What happens when Ann is annoyed? : They get Anngry
 Daniel: :
-Chuan: :: :
+Chuan: :
 Batina: :
 Samantha: :
 David: :
@@ -200,12 +200,12 @@ Ben: :
 Philip: :
 Grant: :
 Avery: :
-Tal: :
+Tal: What is Tal's favorite genre of music? : Heavy Me-Tal
 Robel: :
 Jeffrey: :
 Derek:  :
 Joseph: :
-Li-Kai: :
+Li-Kai: What did Li-Kai say before he left? : Li-Bye
 Harly: What do you call a Harly that is not close to you? : Farly
 Chuhan: What does Chuhan wear on their feet? : Shoehans
 Justin: How does Justin find dates? : He uses Justinder
