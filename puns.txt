@@ -28,10 +28,10 @@ Henry: What is Henry's favorite type of bread? : Henrye bread
 James: Where did James go to compete with the world's best athletes? : the Olympic James
 Jed: What do you call a Jed that can fly? : overJed
 Kelley: What do you call a Kelley in a position of a power? : a Kelleader
-Nuo:  :
-Parren: What does Parren:
-Simi: How does :
-Vincent: :
+Nuo: What do a Nuo that can discern subtle differences? : Nuoance
+Parren: What does a Parren sit on? : A chairren
+Simi: What does Simi do at the beach? : He goes for a swimi
+Vincent: Why is Vincent's wallet so empty? : He Vinspent all his money 
 Xuweiyi: :
 Andrew: :
 Kamden:  :
@@ -204,11 +204,11 @@ Harly: What do you call a Harly that is not close to you? : Farly
 Chuhan: What does Chuhan wear on their feet? : Shoehans
 Justin: How does Justin find dates? : He uses Justinder
 Mingyang: :
-Sandy: :
+Sandy: What is Sandy's favorite country? : Japandy
 Ruolu: :
-Nicholas: :
+Nicholas: What does Nicholas use to keep track of the tasks he still has to do? : He uses a Nicholist
 Aego: :
-Feiyang:  :
+Feiyang: What does Feiyang wear around their neck to a formal event? : a Tieyang
 Annabelle: What does Annabelle use to style her hair? : Annab-gel
 Glenn: What do you call a Glenn that is not cheap? : Exp-glenn-sive
 Hanzheng: What do you call a Hanzheng that comes back to life in a video game? : Spawnzheng
@@ -223,7 +223,7 @@ Zhiwei: What is Zhiwei's favorite protein? : Zhiwhey
 Jason: What do you call a dizzy Jason? : Jaspun
 Kay: What is Kay's favorite animal?  : A Kayngaroo
 Raphael: What happens when Raphael gets frustrated? : He Raphaeyells
-Zehua:x :
+Zehua: :
 Ally: What do you call the world around Ally? : Re-Ally-ty
 Yifei: What does Yifei say when she's happy? : Hip hip Yifei
 Stephen: What do you call a Stephen that is not allowed? : Stephban
