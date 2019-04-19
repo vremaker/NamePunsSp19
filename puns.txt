@@ -49,16 +49,15 @@ Kresta: :
 Anish: What would you call Anish if he was from Madrid? : Sp-Anish
 Madison: :
 Aiden: What does Aiden write with? : Ai-pen
-Tianyu: :
-Christina: :
-James: :
+Tianyu: What do you call a Tianyu that's made up? : ficTian(yu)
+Christina:  :
 Ryan: What do you a victorious Ryan? : Tryanumphant
 Xueqi: How does Xueqi get into a room? : Using a Xuekey
 Kelvin: What's Kelvin's favorite aquatic plant? : Kelpvin
 Yu: What do you call a Yu who's on a computer? : the Yu-ser
 Zachary: :
 Manhong: :
-Corina: :
+Corina: What sound does Corina's phone make? : Co-ring-a
 Hudson: :
 Tad: :
 Mark: :
@@ -136,7 +135,7 @@ Tierney: :
 Grant: What do you call a Grant that is made up of granular rock? : Grant-ite
 Bao: Did you hear Bao got a job hunting down criminals? : She's a Bao-nty hunter
 Tom: How does Tom name his websites? : www.aboutme.tom
-Oliver: :
+Oliver: How does Oliver wrap non-semantic content? : Ol<div>er
 Clayton: :
 Saurav: :
 Sarah: :
@@ -149,18 +148,18 @@ Wen: What do you call an outstanding Wen?: Wenderful
 Sweekruthi: :
 Nikhil: :
 Antonio: What do you call an Antonio that you sit on? : Anthroneio
-Peter: :
+Peter: What's Peter's favorite planet? : JuPeter
 Valerie: What do you call a Valerie that is tall? : Valertree
 Erin: :
 Kyle: What do you call a sad Kyle? : Cryle
 Andrew:  :
-Yaniv: What HTML tag does Yaniv dislike the most? : Yan<Div>
+Yaniv: How does Yaniv share his resources? : he Yandivides them
 Catherine: What do you call a twirling Catherine? : Catherspin
 Ann: What happens when Ann is annoyed? : They get Anngry
-Daniel: :
+Daniel: What do you call a Daniel who is enthusiastic about something? : Faniel
 Chuan: :
 Batina: :
-Samantha: :
+Samantha: What does Samantha call her ideas? : Samanthoughts
 David: :
 Zoheb: :
 Karandeep: :
@@ -184,14 +183,14 @@ Hawk: :
 Camile: :
 Paola: :
 Roger: :
-Amar: :
+Amar: What do you call an Amar with good grades? : sAmart
 Yvette: :
 Preethi: What do you call a Preethi who doesn't have anything on their schedule? : Freethi
 Aryan: :
 Matthew: :
 Jack: :
 John: :
-Lucy:  :
+Lucy: What does Lucy do when she enters lecture?  : Take a Lu-seat
 Owen: What is Owen's favorite weather? : Sn-Owen
 Tie Xiao: :
 Yeyan: :
@@ -200,7 +199,7 @@ Ben: Why can't Ben pay at vending machines? : all his bills are BENt
 Philip: What's Philip's favorite way to move backwards? : a back-Philip
 Avery: :
 Tal: What is Tal's favorite genre of music? : Heavy Me-Tal
-Robel: :
+Robel: When does Robel change classes? : when he hears the Ro-bell
 Jeffrey: :
 Derek:  :
 Joseph: :
