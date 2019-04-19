@@ -60,7 +60,7 @@ Manhong: When does Manhong know they need to eat? : They get Manhongery
 Corina: What sound does Corina's phone make? : Co-ring-a
 Hudson: What do you call a Hudson that is a potato? : Spudson
 Tad: What do you call a happy Tad? : ExsTADic
-Mark: What do you :
+Mark:  :
 Colton: What do you call a Colton who spent time in the sun? : Coltan
 Sven: What do you call a Sven that costs a lot? : ExpSVENsive
 Jonathan:  :
@@ -72,8 +72,8 @@ Cindy: What do you call a Cindy that you use to secure fabric when sewing? : Sew
 Vu: What does Vu put after a CSS selector? : Vu-le set
 Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
 Aadi: How does Aadi combine two numbers? : Aadition
-Woong: :
-Austin: :
+Woong: What do you call Woong's identical twin? : twoong
+Austin:  :
 Keith:  :
 Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
 Manchen: :
@@ -83,19 +83,19 @@ Jay: What does Jay wear to bed? : PaJaymas
 Eish: :
 Ethan:  :
 Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
-Jared: :
+Jared: What do you call a Jared who did his homework? : JaREAD
 Arbaz: How does Arbaz get around? : He drives a cArbaz
 Sooji: What is Sooji's favorite thing to text? : EmSoogis
 Ratik: What sound does Ratik's clock make? : Ratik-tock
 Yae:  :
 Divya: What is Divya's favorite kind of boat? : A Divyacht
 Michelle:  :
-Hongda: :
+Hongda: How does Hongda get around? : they drive a Hongda Civic
 Kristin: What does Kristen call her exit? : Krist-out
 Liangchen: :
 Sandra: :
 Junxi: What do you call a Junxi standing next to something really different? : Junxtaposition
-Ludvig: :
+Ludvig:  :
 Bryan: What do you call a Bryan that loses an electron? : Br-ion
 Cailey: What do you call a Cailey in a tree? : Caileaf
 Chao: How does Chao eat his seafood? : clam Chaoder
@@ -103,7 +103,7 @@ Nan: How does Nan do magic tricks? : they wave their magic Nand
 Huilin: :
 Jess: What do you call a Jess who is funny? : Jesst
 Miki: How does Miki get a value from a map? : He gives it a Mi-key
-Wenxuan: :
+Wenxuan: What do you call a Wenxuan who doesn't know the time? : Whenxuan
 Kaizhi: :
 Claire: What does Claire put before her loops? : a variable deClaireation
 Pim: It's amazing that one man does so much stuff in CSE : You might say it's Pimpossible
@@ -125,15 +125,15 @@ Manny: What is Manny's favorite Hall and Oates Song? : Mannyac (I highly recomme
 Hyung: What do you call a Hyung in elementary school? : Hyoung
 Keegan: What do you call a Keegan on a farm? : Keeglamb
 Koyo: What is Koyo's favorite mexican fast food joint? : El Koyo Loco
-Tierney: :
+Tierney:  :
 Grant: What do you call a Grant that is made up of granular rock? : Grant-ite
 Bao: Did you hear Bao got a job hunting down criminals? : She's a Bao-nty hunter
 Tom: How does Tom name his websites? : www.aboutme.tom
 Oliver: How does Oliver wrap non-semantic content? : Ol<div>er
 Clayton: What do you call a Clayton having fun? : Playton
-Saurav: :
+Saurav: What's Saurav's favorite condiment? : Sauravcha
 Sarah:  :
-Eva: :
+Eva:  :
 Oscar: What does Oscar get when he plays golf? : Ospar
 Nhat: What did Nhat say when asked if he was busy? : "No, I am Nhat"
 Khang: What is Khang's favorite fruit? : Khangtelope
@@ -177,7 +177,7 @@ Amar: What do you call an Amar with good grades? : sAmart
 Yvette: :
 Preethi: What do you call a Preethi who doesn't have anything on their schedule? : Freethi
 Aryan: :
-Matthew: What do you call Matthew's identical twin? : Mattwo
+Matthew: 
 Jack: What do you call a Jack that catches you by surprise? : sneak aJack
 John:  :
 Lucy: What does Lucy do when she enters lecture?  : Take a Lu-seat
