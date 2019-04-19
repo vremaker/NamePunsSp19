@@ -104,7 +104,7 @@ Huilin: :
 Jess: What do you call a Jess who is funny? : Jesst
 Miki: How does Miki get a value from a map? : He gives it a Mi-key
 Wenxuan: What do you call a Wenxuan who doesn't know the time? : Whenxuan
-Kaizhi: :
+Kaizhi: What do you call a Kaizhi soaring through the air? : Skyzhi
 Claire: What does Claire put before her loops? : a variable deClaireation
 Pim: It's amazing that one man does so much stuff in CSE : You might say it's Pimpossible
 Jessie: What do you call a Jessie on a boat? : Jessea
@@ -183,8 +183,8 @@ John: What do you call a John with a negative charge? : elecJohn
 Lucy: What does Lucy do when she enters lecture?  : Take a Lu-seat
 Owen: What is Owen's favorite weather? : Sn-Owen
 Tie Xiao: What do you call a Tie Xiao who's really impressive? : Tie wow
-Yeyan:  :
-Christopher:  :
+Yeyan: What sound does a tired Yeyan make?  : Yeyawn 
+Christopher: What do you call a wet Christopher? : Mistopher
 Ben: Why can't Ben pay at vending machines? : all his bills are BENt
 Philip: What's Philip's favorite way to move backwards? : a back-Philip
 Avery: What do you call an Avery  :
