@@ -37,7 +37,7 @@ Andrew: :
 Kamden: :
 Anthony: What is Anthony's favorite lunch meat? : Anthbaloney
 Steven: :
-Travis: :
+Travis: What do you call a Travis that is really fancy? : exTravisgant
 Alex: :
 Leo: How does Leo show his patriotism? : He recites the pledge of alleogiance
 Calvin: :
@@ -89,7 +89,7 @@ Hemanth: :
 Jay: :
 Eish: :
 Ethan: :
-Harsimar: :
+Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
 Jared: :
 Arbaz: :
 Sooji: :
@@ -112,7 +112,7 @@ Jess: :
 Miki: How does Miki get a value from a map? : He gives it a Mi-key
 Wenxuan: :
 Kaizhi: :
-Claire: :
+Claire: What does Claire put before her loops? : a variable deClaireation
 Pim: It's amazing that one man does so much stuff in CSE : You might say it's Pimpossible
 Jessie: :
 Jocelyn: :
@@ -133,7 +133,7 @@ Hyung: What do you call a Hyung in elementary school? : Hyoung
 Keegan: What do you call a Keegan on a farm? : Keeglamb
 Koyo: What is Koyo's favorite mexican fast food joint? : El Koyo Loco
 Tierney: :
-Grant: :
+Grant: What do you call a Grant that is made up of granular rock? : Grant-ite
 Bao: Did you hear Bao got a job hunting down criminals? : She's a Bao-nty hunter
 Tom: How does Tom name his websites? : www.aboutme.tom
 Oliver: :
@@ -170,7 +170,7 @@ Patrin: :
 Ryan: What do you call Ryan when he loses an electron? : a R-ion
 Nimai: :
 Joosung: :
-Eric: :
+Eric: What do you call an Eric whose father is a ruler? : Heir-ic
 Anastasia: :
 Evan: What do you call a nice Evan? : hEvanly
 Michael: :
@@ -196,9 +196,8 @@ Owen: What is Owen's favorite weather? : Sn-Owen
 Tie Xiao: :
 Yeyan: :
 Christopher: :
-Ben: :
+Ben: Why can't Ben pay at vending machines? : all his bills are BENt
 Philip: :
-Grant: :
 Avery: :
 Tal: What is Tal's favorite genre of music? : Heavy Me-Tal
 Robel: :
@@ -215,7 +214,7 @@ Sandy: :
 Ruolu: :
 Nicholas: :
 Aego: :
-Feiyang: What  :
+Feiyang:  :
 Annabelle: What does Annabelle use to style her hair? : Annab-gel
 Glenn: What do you :
 Hanzheng: What do you call a Hanzheng that comes back to life in a video game? : Spawnzheng
