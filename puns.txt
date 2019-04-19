@@ -73,13 +73,8 @@ Vu: What does Vu put after a CSS selector? : Vu-le set
 Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
 Aadi: How does Aadi combine two numbers? : Aadition
 Woong: :
-<<<<<<< HEAD
 Austin: :
 Keith:  :
-=======
-Austin:  :
-Keith: :
->>>>>>> 68f0cdf1714459b5b1a796d6eaea861857dc7377
 Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
 Manchen: :
 Prachatorn: What do you call a Prachatorn that's also a grain? : Prachacorn
@@ -153,24 +148,24 @@ Yaniv: How does Yaniv share his resources? : he Yandivides them
 Catherine: What do you call a twirling Catherine? : Catherspin
 Ann: What happens when Ann is annoyed? : They get Anngry
 Daniel: What do you call a Daniel who is enthusiastic about something? : Faniel
-Chuan: What do you call a Chuan with six sides? : a hexaChuan
-Batina: :
+Chuan: What do you call a Chuan with six sides? : a hexagChuan
+Batina:  :
 Samantha: What does Samantha call her ideas? : Samanthoughts
 David: :
 Zoheb: :
-Karandeep: :
+Karandeep:  :
 Sanchit: :
 Yash: What sound does Yash make when he jumps into water? : Spl-Yash
 Patrin:  :
 Nimai: What do you call a Nimai who's really strong? : Nimaighty
-Joosung: :
+Joosung: What do you call a Joosung who is sad? : Bluesung
 Eric: What do you call an Eric whose father is a ruler? : Heir-ic
 Anastasia: :
 Evan: What do you call a nice Evan? : hEvanly
 Michael: What does Michael use to speak loudly? : a Mike-crophone
 Sai: How does Sai finish all his homework so early? : He does all his assignments Sai-multaneously
 Tahmin: How long does it take Tahmin to debug his code? : jusTah-minute
-Erica: :
+Erica: What do you call an Erica that studies the weather? : airica
 Ivan: What kind of car does Ivan drive? : a min-Ivan
 Annie: Why is Annie so good at hide and seek? : She could be Anniewhere
 Nadir: :
@@ -183,11 +178,11 @@ Yvette: :
 Preethi: What do you call a Preethi who doesn't have anything on their schedule? : Freethi
 Aryan: :
 Matthew: :
-Jack: :
+Jack: What do you call a Jack that catches you by surprise? : sneak aJack
 John:  :
 Lucy: What does Lucy do when she enters lecture?  : Take a Lu-seat
 Owen: What is Owen's favorite weather? : Sn-Owen
-Tie Xiao: :
+Tie Xiao: What do you call a Tie Xiao who's really impressive? : Tie wow
 Yeyan:  :
 Christopher:  :
 Ben: Why can't Ben pay at vending machines? : all his bills are BENt
