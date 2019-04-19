@@ -34,7 +34,7 @@ Simi: What does Simi do at the beach? : He goes for a swimi
 Vincent: Why is Vincent's wallet so empty? : He Vinspent all his money
 Xuweiyi:  :
 Andrew: What is Andrew's favorite html element? : a <span>drew
-Kamden: What do you call a Kamden that grows? : Expamden 
+Kamden: What do you call a Kamden that grows? : Expamden
 Anthony: What is Anthony's favorite lunch meat? : Anthbaloney
 Steven: :
 Travis: What do you call a Travis that is really fancy? : exTravisgant
@@ -205,9 +205,9 @@ Chuhan: What does Chuhan wear on their feet? : Shoehans
 Justin: How does Justin find dates? : He uses Justinder
 Mingyang: :
 Sandy: What is Sandy's favorite country? : Japandy
-Ruolu: :
+Ruolu: What is Ruolu's favorite streaming service? : Ruohulu
 Nicholas: What does Nicholas use to keep track of the tasks he still has to do? : He uses a Nicholist
-Aego: :
+Aego: What is Aego's favorite anmial? : an Aegoat
 Feiyang: What does Feiyang wear around their neck to a formal event? : a Tieyang
 Annabelle: What does Annabelle use to style her hair? : Annab-gel
 Glenn: What do you call a Glenn that is not cheap? : Exp-glenn-sive
@@ -223,7 +223,7 @@ Zhiwei: What is Zhiwei's favorite protein? : Zhiwhey
 Jason: What do you call a dizzy Jason? : Jaspun
 Kay: What is Kay's favorite animal?  : A Kayngaroo
 Raphael: What happens when Raphael gets frustrated? : He Raphaeyells
-Zehua: :
+Zehua: How does Zehua say hello? : Zehua-owdy 
 Ally: What do you call the world around Ally? : Re-Ally-ty
 Yifei: What does Yifei say when she's happy? : Hip hip Yifei
 Stephen: What do you call a Stephen that is not allowed? : Stephban
