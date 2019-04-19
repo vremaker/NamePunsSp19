@@ -25,10 +25,10 @@ Aditi: What is Aditi's favorite type of pasta? : Adziti
 Kayla: What do you call Kayla's favorite Rapper? : Dr. Drey-La
 Han: What do you call a righteous Han? :Han-orable
 Henry: What is Henry's favorite type of bread? : Henrye bread
-James:  :
+James: Where did James go to compete with the world's best athletes? : the Olympic James
 Jed: What do you call a Jed that can fly? : overJed
 Kelley: What do you call a Kelley in a position of a power? : a Kelleader
-Nuo: :
+Nuo:  :
 Parren: What does Parren:
 Simi: How does :
 Vincent: :
@@ -54,7 +54,7 @@ Christina: :
 James: :
 Ryan: What do you a victorious Ryan? : Tryanumphant
 Xueqi: How does Xueqi get into a room? : Using a Xuekey
-Kelvin: :
+Kelvin: What's Kelvin's favorite aquatic plant? : Kelpvin
 Yu: What do you call a Yu who's on a computer? : the Yu-ser
 Zachary: :
 Manhong: :
@@ -75,9 +75,9 @@ Mowgli: :
 Daniel: :
 Cindy: :
 Henry: :
-Vu: :
-Scarlett: :
-Aadi: :
+Vu: What does Vu put after a CSS selector? : Vu-le set
+Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
+Aadi: How does Aadi combine two numbers? : Aadition
 Andrew: :
 Woong: :
 Austin: :
@@ -86,7 +86,7 @@ Jaimie: :
 Manchen: :
 Prachatorn: :
 Hemanth: :
-Jay: :
+Jay: What does Jay wear to bed? : PaJaymas
 Eish: :
 Ethan: :
 Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
@@ -119,10 +119,10 @@ Jocelyn: :
 Kevin: :
 Louis: :
 Casey: What does Casey call his favorite food? : a deli-Casey
-Aaron: :
+Aaron:  :
 Kendall: What does Kendall do on a shopping trip? : They Spendall their money
-Zach: :
-Angel: :
+Zach: How does Zach carry all his books? : a backZach
+Angel: What do you call an Angel who can reach far away? : rAngel
 Lucero: What is Lucero's favorite flex-property? : flex-direction : lucerROW;
 Julianne: What do you call a Julianne that is always prepared? : a Juliplanner
 Taylor: :
