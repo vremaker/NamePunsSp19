@@ -25,48 +25,46 @@ Aditi: What is Aditi's favorite type of pasta? : Adziti
 Kayla: What do you call Kayla's favorite Rapper? : Dr. Drey-La
 Han: What do you call a righteous Han? :Han-orable
 Henry: What is Henry's favorite type of bread? : Henrye bread
-James: :
-Jed: :
+James: Where did James go to compete with the world's best athletes? : the Olympic James
+Jed: What do you call a Jed that can fly? : overJed
 Kelley: What do you call a Kelley in a position of a power? : a Kelleader
-Nuo: :
-Parren: :
+Nuo:  :
+Parren: What does Parren:
 Simi: How does :
 Vincent: :
 Xuweiyi: :
 Andrew: :
-Kamden: :
+Kamden:  :
 Anthony: What is Anthony's favorite lunch meat? : Anthbaloney
 Steven: :
-Travis: :
-Alex: :
+Travis: What do you call a Travis that is really fancy? : exTravisgant
+Alex: What do you call an Alex in a man-made water channel? : a canalex
 Leo: How does Leo show his patriotism? : He recites the pledge of alleogiance
-Calvin: :
-Wenzao: :
+Calvin:  :
+Wenzao:  :
 Jacob: What do you call a Jacob that is a drop of golden sun?: Raycob
 Hao: How does Hao like to greet new people? : Hao-dy
 Mingzhong: :
-Kresta: :
-Anish: :
+Kresta: What do you call a Kresta that you see in the sky? : Krestar
+Anish: What would you call Anish if he was from Madrid? : Sp-Anish
 Madison: :
 Aiden: What does Aiden write with? : Ai-pen
-Tianyu: :
-Christina: :
-James: :
+Tianyu: What do you call a Tianyu that's made up? : ficTian(yu)
+Christina: What do you call a Christina that is also a fish? : Christuna
 Ryan: What do you a victorious Ryan? : Tryanumphant
 Xueqi: How does Xueqi get into a room? : Using a Xuekey
-Kelvin: :
-Yu: :
+Kelvin: What's Kelvin's favorite aquatic plant? : Kelpvin
+Yu: What do you call a Yu who's on a computer? : the Yu-ser
 Zachary: :
 Manhong: :
-Corina: :
-Hudson: :
+Corina: What sound does Corina's phone make? : Co-ring-a
+Hudson: What do you call a Hudson that is a potato? : Spudson
 Tad: :
-Mark: :
+Mark:  :
 Colton: :
 Justin: :
 Sven: :
-Daniel: :
-Jonathan: :
+Jonathan:  :
 Jordan: :
 Jerry: :
 Miklos: :
@@ -75,10 +73,9 @@ Mowgli: :
 Daniel: :
 Cindy: :
 Henry: :
-Vu: :
-Scarlett: :
-Aadi::
-Andrew: :
+Vu: What does Vu put after a CSS selector? : Vu-le set
+Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
+Aadi: How does Aadi combine two numbers? : Aadition
 Woong: :
 Austin: :
 Keith: :
@@ -86,43 +83,43 @@ Jaimie: :
 Manchen: :
 Prachatorn: :
 Hemanth: :
-Jay: :
+Jay: What does Jay wear to bed? : PaJaymas
 Eish: :
-Ethan: :
-Harsimar: :
+Ethan:  :
+Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
 Jared: :
-Arbaz: :
+Arbaz: How does Arbaz get around? : He drives a cArbaz
 Sooji: :
-Ratik: :
-Yae: :
+Ratik: What sound does Ratik's clock make? : Ratik-tock
+Yae:  :
 Divya: :
 Michelle: :
 Hongda: :
-Kristin: :
+Kristin: What does Kristen call her exit? : Krist-out
 Liangchen: :
 Sandra: :
 Junxi: :
 Ludvig: :
-Bryan: :
-Cailey: :
-Chao:  :
-Nan: :
+Bryan: What do you call a Bryan that loses an electron? : Br-ion
+Cailey: What do you call a Cailey in a tree? : Caileaf
+Chao: How does Chao eat his seafood? : clam Chaoder
+Nan: How does Nan do magic tricks? : they wave their magic Nand
 Huilin: :
 Jess: :
 Miki: How does Miki get a value from a map? : He gives it a Mi-key
 Wenxuan: :
 Kaizhi: :
-Claire: :
+Claire: What does Claire put before her loops? : a variable deClaireation
 Pim: It's amazing that one man does so much stuff in CSE : You might say it's Pimpossible
 Jessie: :
 Jocelyn: :
 Kevin: :
-Louis: :
-Casey: :
-Aaron: :
+Louis: What do you call a Louis that holds things together? : glueis
+Casey: What does Casey call his favorite food? : a deli-Casey
+Aaron: What does Aaron call his to-do list? : his Aaronds
 Kendall: What does Kendall do on a shopping trip? : They Spendall their money
-Zach: :
-Angel: :
+Zach: How does Zach carry all his books? : a backZach
+Angel: What do you call an Angel who can reach far away? : rAngel
 Lucero: What is Lucero's favorite flex-property? : flex-direction : lucerROW;
 Julianne: What do you call a Julianne that is always prepared? : a Juliplanner
 Taylor: :
@@ -133,10 +130,10 @@ Hyung: What do you call a Hyung in elementary school? : Hyoung
 Keegan: What do you call a Keegan on a farm? : Keeglamb
 Koyo: What is Koyo's favorite mexican fast food joint? : El Koyo Loco
 Tierney: :
-Grant: :
+Grant: What do you call a Grant that is made up of granular rock? : Grant-ite
 Bao: Did you hear Bao got a job hunting down criminals? : She's a Bao-nty hunter
 Tom: How does Tom name his websites? : www.aboutme.tom
-Oliver: :
+Oliver: How does Oliver wrap non-semantic content? : Ol<div>er
 Clayton: :
 Saurav: :
 Sarah: :
@@ -144,64 +141,61 @@ Eva: :
 Kayla: :
 Oscar: :
 Nhat: What did Nhat say when asked if he was busy? : "No, I am Nhat"
-Khang: :
+Khang: What is Khang's favorite fruit? : Khangtelope
 Wen: What do you call an outstanding Wen?: Wenderful
 Sweekruthi: :
 Nikhil: :
 Antonio: What do you call an Antonio that you sit on? : Anthroneio
-Peter: :
+Peter: What's Peter's favorite planet? : JuPeter
 Valerie: What do you call a Valerie that is tall? : Valertree
-Erin: :
 Kyle: What do you call a sad Kyle? : Cryle
-Andrew:  :
-Yaniv: What HTML tag does Yaniv dislike the most? : Yan<Div>
+Yaniv: How does Yaniv share his resources? : he Yandivides them
 Catherine: What do you call a twirling Catherine? : Catherspin
 Ann: What happens when Ann is annoyed? : They get Anngry
-Daniel: :
+Daniel: What do you call a Daniel who is enthusiastic about something? : Faniel
 Chuan: :
 Batina: :
-Samantha: :
+Samantha: What does Samantha call her ideas? : Samanthoughts
 David: :
 Zoheb: :
 Karandeep: :
 Sanchit: :
-Yash: :
-Patrin: :
-Ryan: :
-Nimai: :
+Yash: What sound does Yash make when he jumps into water? : Spl-Yash
+Patrin:  :
+Ryan: What do you call Ryan when he loses an electron? : a R-ion
+Nimai: What do you call a Nimai who's really strong? : Nimaighty
 Joosung: :
-Eric: :
+Eric: What do you call an Eric whose father is a ruler? : Heir-ic
 Anastasia: :
-Evan: :
+Evan: What do you call a nice Evan? : hEvanly
 Michael: :
-Sai: :
-Tahmin: :
+Sai: How does Sai finish all his homework so early? : He does all his assignments Sai-multaneously
+Tahmin: How long does it take Tahmin to debug his code? : jusTah-minute
 Erica: :
-Ivan: :
-Annie: :
+Ivan: What kind of car does Ivan drive? : a min-Ivan
+Annie: Why is Annie so good at hide and seek? : She could be Anniewhere
 Nadir: :
 Hawk: :
 Camile: :
 Paola: :
 Roger: :
-Amar: :
+Amar: What do you call an Amar with good grades? : sAmart
 Yvette: :
-Preethi: :
+Preethi: What do you call a Preethi who doesn't have anything on their schedule? : Freethi
 Aryan: :
 Matthew: :
 Jack: :
-John: :
-Lucy:  :
+John:  :
+Lucy: What does Lucy do when she enters lecture?  : Take a Lu-seat
 Owen: What is Owen's favorite weather? : Sn-Owen
 Tie Xiao: :
 Yeyan: :
 Christopher: :
-Ben: :
-Philip: :
-Grant: :
+Ben: Why can't Ben pay at vending machines? : all his bills are BENt
+Philip: What's Philip's favorite way to move backwards? : a back-Philip
 Avery: :
 Tal: What is Tal's favorite genre of music? : Heavy Me-Tal
-Robel: :
+Robel: When does Robel change classes? : when he hears the Ro-bell
 Jeffrey: :
 Derek:  :
 Joseph: :
@@ -209,13 +203,12 @@ Li-Kai: What did Li-Kai say before he left? : Li-Bye
 Harly: What do you call a Harly that is not close to you? : Farly
 Chuhan: What does Chuhan wear on their feet? : Shoehans
 Justin: How does Justin find dates? : He uses Justinder
-Vincent:  :
 Mingyang: :
 Sandy: :
 Ruolu: :
 Nicholas: :
 Aego: :
-Feiyang: What  :
+Feiyang:  :
 Annabelle: What does Annabelle use to style her hair? : Annab-gel
 Glenn: What do you :
 Hanzheng: What do you call a Hanzheng that comes back to life in a video game? : Spawnzheng
