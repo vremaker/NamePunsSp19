@@ -25,7 +25,7 @@ Aditi: What is Aditi's favorite type of pasta? : Adziti
 Kayla: What do you call Kayla's favorite Rapper? : Dr. Drey-La
 Han: What do you call a righteous Han? :Han-orable
 Henry: What is Henry's favorite type of bread? : Henrye bread
-James: :
+James:  :
 Jed: :
 Kelley: What do you call a Kelley in a position of a power? : a Kelleader
 Nuo: :
@@ -46,7 +46,7 @@ Jacob: What do you call a Jacob that is a drop of golden sun?: Raycob
 Hao: How does Hao like to greet new people? : Hao-dy
 Mingzhong: :
 Kresta: :
-Anish: :
+Anish: What would you call Anish if he was from Madrid? : Sp-Anish
 Madison: :
 Aiden: What does Aiden write with? : Ai-pen
 Tianyu: :
@@ -55,7 +55,7 @@ James: :
 Ryan: What do you a victorious Ryan? : Tryanumphant
 Xueqi: How does Xueqi get into a room? : Using a Xuekey
 Kelvin: :
-Yu: :
+Yu: What do you call a Yu who's on a computer? : the Yu-ser
 Zachary: :
 Manhong: :
 Corina: :
@@ -77,7 +77,7 @@ Cindy: :
 Henry: :
 Vu: :
 Scarlett: :
-Aadi::
+Aadi: :
 Andrew: :
 Woong: :
 Austin: :
@@ -165,7 +165,7 @@ David: :
 Zoheb: :
 Karandeep: :
 Sanchit: :
-Yash: :
+Yash: What sound does Yash make when he jumps into water? : Spl-Yash
 Patrin: :
 Ryan: What do you call Ryan when he loses an electron? : a R-ion
 Nimai: :
@@ -175,7 +175,7 @@ Anastasia: :
 Evan: What do you call a nice Evan? : hEvanly
 Michael: :
 Sai: How does Sai finish all his homework so early? : He does all his assignments Sai-multaneously
-Tahmin: :
+Tahmin: How long does it take Tahmin to debug his code? : jusTah-minute
 Erica: :
 Ivan: What kind of car does Ivan drive? : a min-Ivan
 Annie: Why is Annie so good at hide and seek? : She could be Anniewhere
@@ -186,7 +186,7 @@ Paola: :
 Roger: :
 Amar: :
 Yvette: :
-Preethi: :
+Preethi: What do you call a Preethi who doesn't have anything on their schedule? : Freethi
 Aryan: :
 Matthew: :
 Jack: :
@@ -197,7 +197,7 @@ Tie Xiao: :
 Yeyan: :
 Christopher: :
 Ben: Why can't Ben pay at vending machines? : all his bills are BENt
-Philip: :
+Philip: What's Philip's favorite way to move backwards? : a back-Philip
 Avery: :
 Tal: What is Tal's favorite genre of music? : Heavy Me-Tal
 Robel: :
