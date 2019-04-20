@@ -76,11 +76,11 @@ Woong: What do you call Woong's identical twin? : twoong
 Austin:  :
 Keith:  :
 Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
-Manchen: :
+Manchen:  :
 Prachatorn: What do you call a Prachatorn that's also a grain? : Prachacorn
-Hemanth: :
+Hemanth:  :
 Jay: What does Jay wear to bed? : PaJaymas
-Eish: :
+Eish:  :
 Ethan:  :
 Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
 Jared: What do you call a Jared who did his homework? : JaREAD
@@ -170,7 +170,7 @@ Ivan: What kind of car does Ivan drive? : a min-Ivan
 Annie: Why is Annie so good at hide and seek? : She could be Anniewhere
 Nadir: :
 Hawk: What do you call a Hawk who likes to skate? : a Hawkey player
-Camile: :
+Camile: What does Camile eat at breakfast, lunch, and dinner? : Cameal
 Paola: :
 Roger: Where does Roger go to relax? : the Spager
 Amar: What do you call an Amar with good grades? : sAmart
