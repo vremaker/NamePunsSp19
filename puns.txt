@@ -66,41 +66,41 @@ Sven: What do you call a Sven that costs a lot? : ExpSVENsive
 Jonathan: What would Jonathan name a country? : Jonation
 Jerry: What do you call a Jerry that is sweet? : strawJerry
 Miklos: What does Miklos buy from the mall? : Miclothes
-Melissa: :
-Mowgli: What do you call a Mowgli that likes to sing? : Mowglee
+Melissa: What do you call a Melissa that is a small burrowing animal? : Mole-issa
+Mowgli: What kind of choir does Mowgli sing in? : Mowglee club
 Cindy: What do you call a Cindy that you use to secure fabric when sewing? : Sewing Pindy
 Vu: What does Vu put after a CSS selector? : Vu-le set
 Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
 Aadi: How does Aadi combine two numbers? : Aadition
 Woong: What do you call Woong's identical twin? : twoong
 Austin: What do you call an Austin with dog hands? : Pawstin
-Keith:  :
+Keith: :
 Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
 Manchen:  :
 Prachatorn: What do you call a Prachatorn that's also a grain? : Prachacorn
-Hemanth:  :
+Hemanth: :
 Jay: What does Jay wear to bed? : PaJaymas
 Eish:  :
-Ethan:  :
+Ethan: What do you call Ethan's friend group? : His Ethfam
 Harsimar: What do you call a Harsimar with 20/20 vision? : HarSEEmar
 Jared: What do you call a Jared who did his homework? : JaREAD
 Arbaz: How does Arbaz get around? : He drives a cArbaz
 Sooji: What is Sooji's favorite thing to text? : EmSoogis
 Ratik: What sound does Ratik's clock make? : Ratik-tock
-Yae:  :
+Yae: :
 Divya: What is Divya's favorite kind of boat? : A Divyacht
 Michelle: Where does Michelle store her books? : a Michelf
 Hongda: How does Hongda get around? : they drive a Hongda Civic
 Kristin: What does Kristen call her exit? : Krist-out
-Liangchen: :
-Sandra: :
+Liangchen: What is Liangchen's lucky number? : Liangten
+Sandra: What does Sandra use to cool off? : a fandra
 Junxi: What do you call a Junxi standing next to something really different? : Junxtaposition
-Ludvig:  :
+Ludvig: How does Ludvig makes a hole? : He Lud-digs
 Bryan: What do you call a Bryan that loses an electron? : Br-ion
 Cailey: What do you call a Cailey in a tree? : Caileaf
 Chao: How does Chao eat his seafood? : clam Chaoder
 Nan: How does Nan do magic tricks? : they wave their magic Nand
-Huilin:  :
+Huilin: Where does Huilin go to learn? : Schoolin
 Jess: What do you call a Jess who is funny? : Jesst
 Miki: How does Miki get a value from a map? : He gives it a Mi-key
 Wenxuan: What do you call a Wenxuan who doesn't know the time? : Whenxuan
@@ -125,7 +125,7 @@ Manny: What is Manny's favorite Hall and Oates Song? : Mannyac (I highly recomme
 Hyung: What do you call a Hyung in elementary school? : Hyoung
 Keegan: What do you call a Keegan on a farm? : Keeglamb
 Koyo: What is Koyo's favorite mexican fast food joint? : El Koyo Loco
-Tierney:  :
+Tierney: What do you call a Tierney that wants to start fresh? : Clearney
 Grant: What do you call a Grant that is made up of granular rock? : Grant-ite
 Bao: Did you hear Bao got a job hunting down criminals? : She's a Bao-nty hunter
 Tom: How does Tom name his websites? : www.aboutme.tom
@@ -133,7 +133,7 @@ Oliver: How does Oliver wrap non-semantic content? : Ol<div>er
 Clayton: What do you call a Clayton having fun? : Playton
 Saurav: What's Saurav's favorite condiment? : Sauravcha
 Sarah: What do you call a Sarah that lives in the woods? : Bear-ah
-Eva:  :
+Eva: What do you an improved Eva? : rEVAmped
 Oscar: What does Oscar get when he plays golf? : Ospar
 Nhat: What did Nhat say when asked if he was busy? : "No, I am Nhat"
 Khang: What is Khang's favorite fruit? : Khangtelope
@@ -149,14 +149,14 @@ Catherine: What do you call a twirling Catherine? : Catherspin
 Ann: What happens when Ann is annoyed? : They get Anngry
 Daniel: What do you call a Daniel who is enthusiastic about something? : Faniel
 Chuan: What do you call a Chuan with six sides? : a hexagChuan
-Batina:  :
+Batina: What is Batina's favorite animal? : A catina
 Samantha: What does Samantha call her ideas? : Samanthoughts
-David:  :
-Zoheb:  :
-Karandeep:  :
-Sanchit:  :
+David: How do you close a David? : you put the Davlid on
+Zoheb: What do you call Zohebs feet fingers? : Toehebs
+Karandeep: What sound does Karandeep's alarm make in the morning? : Karanbeepbeepbeep
+Sanchit:  What do you call a Sanchit who likes small talk? : Sanchitchat
 Yash: What sound does Yash make when he jumps into water? : Spl-Yash
-Patrin:  :
+Patrin: What do you call a Patrin that is a local seattle night club? : Patrinity night club
 Nimai: What do you call a Nimai who's really strong? : Nimaighty
 Joosung: What do you call a Joosung who is sad? : Bluesung
 Eric: What do you call an Eric whose father is a ruler? : Heir-ic
@@ -168,15 +168,15 @@ Tahmin: How long does it take Tahmin to debug his code? : jusTah-minute
 Erica: What do you call an Erica that studies the weather? : airica
 Ivan: What kind of car does Ivan drive? : a min-Ivan
 Annie: Why is Annie so good at hide and seek? : She could be Anniewhere
-Nadir:  :
+Nadir: What do you call a sufficient Nadir? : Nadfair
 Hawk: What do you call a Hawk who likes to skate? : a Hawkey player
 Camile: What does Camile eat at breakfast, lunch, and dinner? : Cameal
-Paola:  :
+Paola: What does Paola do after their performance? : They Bowla
 Roger: Where does Roger go to relax? : the Spager
 Amar: What do you call an Amar with good grades? : sAmart
-Yvette:  :
+Yvette: What is Yvettes favorite homework assignment in CSE154?  : YvSETte
 Preethi: What do you call a Preethi who doesn't have anything on their schedule? : Freethi
-Aryan:  :
+Aryan:  What is Aryans favorite legume?  Ar-yam
 Matthew: What do you call a Matthew that can change colors? : Matthue
 Jack: What do you call a Jack that catches you by surprise? : sneak aJack
 John: What do you call a John with a negative charge? : elecJohn
