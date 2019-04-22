@@ -73,7 +73,7 @@ Vu: What does Vu put after a CSS selector? : Vu-le set
 Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
 Aadi: How does Aadi combine two numbers? : Aadition
 Woong: What do you call Woong's identical twin? : twoong
-Austin:  :
+Austin: What do you call an Austin with dog hands? : Pawstin
 Keith:  :
 Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
 Manchen:  :
@@ -100,7 +100,7 @@ Bryan: What do you call a Bryan that loses an electron? : Br-ion
 Cailey: What do you call a Cailey in a tree? : Caileaf
 Chao: How does Chao eat his seafood? : clam Chaoder
 Nan: How does Nan do magic tricks? : they wave their magic Nand
-Huilin: :
+Huilin:  :
 Jess: What do you call a Jess who is funny? : Jesst
 Miki: How does Miki get a value from a map? : He gives it a Mi-key
 Wenxuan: What do you call a Wenxuan who doesn't know the time? : Whenxuan
@@ -151,10 +151,10 @@ Daniel: What do you call a Daniel who is enthusiastic about something? : Faniel
 Chuan: What do you call a Chuan with six sides? : a hexagChuan
 Batina:  :
 Samantha: What does Samantha call her ideas? : Samanthoughts
-David: :
-Zoheb: :
+David:  :
+Zoheb:  :
 Karandeep:  :
-Sanchit: :
+Sanchit:  :
 Yash: What sound does Yash make when he jumps into water? : Spl-Yash
 Patrin:  :
 Nimai: What do you call a Nimai who's really strong? : Nimaighty
@@ -168,15 +168,15 @@ Tahmin: How long does it take Tahmin to debug his code? : jusTah-minute
 Erica: What do you call an Erica that studies the weather? : airica
 Ivan: What kind of car does Ivan drive? : a min-Ivan
 Annie: Why is Annie so good at hide and seek? : She could be Anniewhere
-Nadir: :
+Nadir:  :
 Hawk: What do you call a Hawk who likes to skate? : a Hawkey player
 Camile: What does Camile eat at breakfast, lunch, and dinner? : Cameal
-Paola: :
+Paola:  :
 Roger: Where does Roger go to relax? : the Spager
 Amar: What do you call an Amar with good grades? : sAmart
-Yvette: :
+Yvette:  :
 Preethi: What do you call a Preethi who doesn't have anything on their schedule? : Freethi
-Aryan: :
+Aryan:  :
 Matthew: What do you call a Matthew that can change colors? : Matthue
 Jack: What do you call a Jack that catches you by surprise? : sneak aJack
 John: What do you call a John with a negative charge? : elecJohn
