@@ -74,7 +74,11 @@ Scarlett: What's the main ingredient in Scarlett's salad? : Scarlettuce
 Aadi: How does Aadi combine two numbers? : Aadition
 Woong: What do you call Woong's identical twin? : twoong
 Austin: What do you call an Austin with dog hands? : Pawstin
+<<<<<<< HEAD
 Keith: :
+=======
+Keith: What do you call a Keith that works in a hospital? : an anisKeitheologist
+>>>>>>> b7867e82218e52119d9de5be894ff605e5365e25
 Jaimie: What do you call a Jaimie that is not wild? : Tame-ie
 Manchen:  :
 Prachatorn: What do you call a Prachatorn that's also a grain? : Prachacorn
